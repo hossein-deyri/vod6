@@ -1,1 +1,2 @@
-# vod6
+# Welcome to SmartComm!
+test
